@@ -1,0 +1,6 @@
+audio_private/
+audio_files/
+*.wav
+*.mp3
+*.m4a
+.DS_Store
