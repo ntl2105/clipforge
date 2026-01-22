@@ -1,0 +1,3 @@
+file '/Users/jadele-cascarino/Documents/clipforge/audio_files/rendered_clips/clip_00.wav'
+file '/Users/jadele-cascarino/Documents/clipforge/audio_files/rendered_clips/clip_01.wav'
+file '/Users/jadele-cascarino/Documents/clipforge/audio_files/rendered_clips/clip_02.wav'
